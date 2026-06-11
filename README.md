@@ -21,6 +21,7 @@ API desarrollada para el proyecto INVENTAR-IO como parte de la evidencia GA7-220
 ## Autores
 
 Brayan Stiven Palacios Reyes
+
 Daniel Santiago Paredes Daza
 
 Tecnólogo en Análisis y Desarrollo de Software
